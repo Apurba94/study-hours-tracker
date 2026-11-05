@@ -1,0 +1,1 @@
+window.SK_META = {"name": "study-hours-tracker", "title": "Study Hours Tracker", "exam": "BOTH", "area": "TOEFL Planning and Both Tests", "desc": "See the minutes you practised in every app of the suite, by day, exam and skill, against a weekly goal.", "content": [], "n": 96};
